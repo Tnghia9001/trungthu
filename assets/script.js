@@ -382,7 +382,7 @@ const wishList = [
     img: "./assets/7.jpg",
   },
     {
-    text: "Người ta có lòng đè, người ta có trăng, còn anh chỉ cần mình em. Chúc chúng ta sẻ luôn bên nhau.",
+    text: "Người ta có lòng đèn, người ta có trăng, còn anh chỉ cần mình em. Chúc chúng ta sẻ luôn bên nhau.",
     img: "./assets/8.jpg",
   },
     {
