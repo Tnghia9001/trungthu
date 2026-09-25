@@ -354,19 +354,19 @@ const interactiveObjects = [];
 
 const wishList = [
   {
-    text: "Chúc cậu và gia đình một mùa Trung Thu trọn vẹn, tràn ngập niềm vui và hạnh phúc!",
+    text: "Chúc em yêu và gia đình em một mùa Trung Thu trọn vẹn, tràn ngập niềm vui và hạnh phúc!",
     img: "./assets/1.jpg",
   },
   {
-    text: "Cầu chúc cho mọi nguyện ước của cậu đêm nay sẽ trở thành hiện thực.",
+    text: "Trăng chỉ sáng nhất vào ngày rằm, cuộc đời anh chỉ tươi sáng khi được ở bên em. Chúc em một mùa Trung thu ngọt ngào và an lành!",
     img: "./assets/2.jpg",
   },
   {
-    text: "Trăng tròn ấm áp, chúc tình cậu và tình yêu của chúng ta mãi bền chặt.",
+    text: "Trung thu người ta đi rước đèn, còn anh chỉ muốn rước em về!",
     img: "./assets/3.jpg",
   },
   {
-    text: "Chúc cậu luôn giữ được tâm hồn trong trẻo, yêu đời như ánh trăng rằm.",
+    text: "Chúc em luôn giữ được tâm hồn trong trẻo, yêu đời như ánh trăng rằm.",
     img: "./assets/4.jpg",
   },
   {
@@ -374,7 +374,7 @@ const wishList = [
     img: "./assets/5.jpg",
   },
   {
-    text: "Chúc riêng cậu một đêm trăng thật lãng mạn và ngọt ngào.",
+    text: "Trung thu này chẳng cần trăng sáng, vì bên em là cả bầu trời của anh rồi. Chúc em yêu một đêm rằm ngập tràn hạnh phúc.",
     img: "./assets/6.jpg",
   },
   {
